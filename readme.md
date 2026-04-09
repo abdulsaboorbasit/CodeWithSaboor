@@ -13,7 +13,7 @@ Today was about foundational logic and building the "dopamine" habit of finishin
 - **Temperature Transformer:** Implemented $F = (C \times 9/5) + 32$ in code.
 - **Variable Swapper:** Mastered Pythonic variable assignment.
 - **Mad Libs Generator:** Combined user input with dynamic string concatenation.
-- [📂 View](./Day%2001)
+[📂 View](./Day%2001)
 
 ---
 
