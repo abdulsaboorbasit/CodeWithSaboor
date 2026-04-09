@@ -24,7 +24,7 @@ Today was about foundational logic and building the "dopamine" habit of finishin
 - [ ] Integrate AI Models into daily mini-projects.
 
 ## 📈 Tech Profile
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaboorbasit&layout=compact&theme=transparent&text_color=79ff97&title_color=ffffff&hide_border=true)
+![Top Langs]<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=abdulsaboorbasit&theme=dark" alt="Top Langs" width="300" />
 
 ---
 
