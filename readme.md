@@ -4,6 +4,17 @@
 Welcome to my main development laboratory! This repository is a daily log of my journey through **Python, Web Apps, and AI**. I follow a project-first approach, solving practical problems every day to build a strong engineering foundation.
 
 ---
+## 🛠 Day 03 - Loops & Iteration
+
+Today was all about automation. I learned how to use `for` and `while` loops to handle repetitive tasks and process data sets efficiently.
+
+- **The 1 to 100:** Filtered a range of numbers to identify and print specific multiples.
+- **The "Are We There Yet?":** Implemented an indefinite `while` loop controlled by user input.
+- **The FizzBuzz Junior:** Combined iteration with conditional logic for pattern recognition.
+- **Blast Off!:** Mastered the reverse range function to create a synchronized countdown.
+- **The List Doubler:** Practiced data transformation by iterating through a list to populate a new one.
+
+---
 
 ## 🛠 Day 02 - Control Flow & Lists
 
