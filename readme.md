@@ -5,7 +5,19 @@ Welcome to my main development laboratory! This repository is a daily log of my 
 
 ---
 
-## 🛠 Day 01 - Projects
+# 🛠 Day 02 - Control Flow & Lists
+
+Today's focus was on making decisions with code and managing collections of data. I moved beyond simple inputs to logic gates and index manipulation.
+
+- **The Bouncer** Implemented conditional logic to filter users based on age.
+- **The Grocery List** Managed data within a list structure and practiced item replacement.
+- **Even or Odd** Used mathematical operators to determine number properties.
+- **The Secret Password** Created a simple authentication gate.
+- **List Max-Min (The Manual Way)** Solved a common algorithmic problem without using helper functions like `max()`.
+
+---
+
+## 🛠 Day 01 - Foundational Logic
 Today was about foundational logic and building the "dopamine" habit of finishing projects.
 
 - **The Tip Calculator:** Solved bill splitting and percentage calculation.
