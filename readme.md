@@ -5,7 +5,7 @@ Welcome to my main development laboratory! This repository is a daily log of my 
 
 ---
 
-## 🛠 Today's Focus: Day 01
+## 🛠 Day 01 - Projects
 Today was about foundational logic and building the "dopamine" habit of finishing projects.
 
 - **The Tip Calculator:** Solved bill splitting and percentage calculation.
@@ -13,7 +13,6 @@ Today was about foundational logic and building the "dopamine" habit of finishin
 - **Temperature Transformer:** Implemented $F = (C \times 9/5) + 32$ in code.
 - **Variable Swapper:** Mastered Pythonic variable assignment.
 - **Mad Libs Generator:** Combined user input with dynamic string concatenation.
-[📂 View](./Day%2001)
 
 ---
 
