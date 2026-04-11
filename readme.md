@@ -5,7 +5,7 @@ Welcome to my main development laboratory! This repository is a daily log of my 
 
 ---
 
-# 🛠 Day 02 - Control Flow & Lists
+## 🛠 Day 02 - Control Flow & Lists
 
 Today's focus was on making decisions with code and managing collections of data. I moved beyond simple inputs to logic gates and index manipulation.
 
