@@ -3,6 +3,16 @@
 
 Welcome to my main development laboratory! This repository is a daily log of my journey through **Python, Web Apps, and AI**. I follow a project-first approach, solving practical problems every day to build a strong engineering foundation.
 
+## 🛠 Day 04 - The Data Vaults 🗄️
+
+Today’s focus was on advanced data structures. I explored how to move beyond standard lists by using Tuples for fixed data, Sets for unique collections, and Dictionaries for labeled mapping.
+
+- **The Digital Phonebook:** Built a key-value database to store and retrieve contact information based on user input.
+- **The Unique Party Guestlist:** Leveraged the properties of Sets to automatically filter out duplicate entries from a list.
+- **The Immutable Coordinates:** Experimented with Tuples to understand data integrity and handled the specific errors triggered when trying to modify unchangeable values.
+- **Stock Checker:** Implemented a price-lookup dictionary to practice retrieving and formatting data into readable strings.
+- **Dictionary Loop:** Mastered the logic of iterating through dictionary keys to isolate and display specific identifiers from a dataset.
+
 ---
 ## 🛠 Day 03 - Loops & Iteration
 
