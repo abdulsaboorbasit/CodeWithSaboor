@@ -3,6 +3,18 @@
 
 Welcome to my main development laboratory! This repository is a daily log of my journey through **Python, Web Apps, and AI**. I follow a project-first approach, solving practical problems every day to build a strong engineering foundation.
 
+## 🛠 Day 05 - Functions & Fail-Safes 🛡️
+
+Today’s focus was on modularity and persistence. I learned how to package code into reusable functions, handle user errors gracefully using try/except blocks, and save data permanently using file operations.
+
+- **The Greeting Machine:** Created custom functions with arguments to generate personalized outputs, practicing the DRY (Don't Repeat Yourself) principle.
+- **The Calculator Function:** Integrated mathematical logic inside a multi-argument function to perform dynamic calculations based on user input.
+- **The Crash Proof Input:** Implemented error-handling logic to catch `ValueError` exceptions, ensuring the program remains stable even with invalid user input.
+- **The Journal Writer:** Mastered file "Write" mode to capture user thoughts and save them directly to a local text file.
+- **The File Reader:** Practiced file "Read" mode combined with string methods to retrieve and transform stored data for display.
+
+---
+
 ## 🛠 Day 04 - The Data Vaults 🗄️
 
 Today’s focus was on advanced data structures. I explored how to move beyond standard lists by using Tuples for fixed data, Sets for unique collections, and Dictionaries for labeled mapping.
