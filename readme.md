@@ -3,6 +3,17 @@
 
 Welcome to my main development laboratory! This repository is a daily log of my journey through **Python, Web Apps, and AI**. I follow a project-first approach, solving practical problems every day to build a strong engineering foundation.
 
+## 🛠 Day 06 - Introduction to Object-Oriented Programming
+
+Today’s focus shifted toward the fundamentals of Object-Oriented Programming (OOP) in Python. By transitioning from procedural code to class-based structures, the projects today explored how to encapsulate data and behavior within objects. Key concepts covered include class instantiation, attribute management, and the implementation of methods to perform specific tasks, such as mathematical calculations and status reporting.
+
+### Daily Projects
+* **The Car Factory:** Defining a class blueprint to instantiate multiple unique objects with distinct attributes.
+* **The Puppy Protocol:** Implementing class methods to define specific behaviors for an object.
+* **The Bank Account:** Managing internal state (encapsulation) through methods that modify and retrieve attribute values.
+* **The Student ID:** Using the `__init__` constructor to handle complex data types like lists and performing data processing within a class.
+* **The Rectangle Area:** Applying geometric logic within a method to return calculated values based on object attributes.
+
 ## 🛠 Day 05 - Functions & Fail-Safes 🛡️
 
 Today’s focus was on modularity and persistence. I learned how to package code into reusable functions, handle user errors gracefully using try/except blocks, and save data permanently using file operations.
