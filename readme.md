@@ -3,16 +3,25 @@
 
 Welcome to my main development laboratory! This repository is a daily log of my journey through **Python, Web Apps, and AI**. I follow a project-first approach, solving practical problems every day to build a strong engineering foundation.
 
+## 🛠 Day 07 - Advanced Object-Oriented Programming
+
+Today's curriculum delved into the more complex pillars of Object-Oriented Programming, focusing on how classes interact and protect their data. By exploring inheritance, students learned to pass functionality from parent to child classes, while polymorphism demonstrated how different objects can respond to the same command in unique ways. The concepts of encapsulation and the use of the `super()` function further refined the ability to create secure, scalable, and interconnected code structures.
+
+- **Inheritance (The Family Tree):** Establishing a hierarchy where a child class inherits foundational behaviors from a parent class.
+- **Polymorphism (Many Forms):** Creating a unified interface to interact with different object types through shared method names.
+- **Encapsulation (Private Vault):** Implementing data privacy by restricting direct access to internal attributes using private naming conventions.
+- **The Smart Device (Super() Function):** Utilizing the `super()` keyword to extend and build upon the functionality of a base class.
+- **The Library System:** Implementing object composition by creating a class that manages a collection of other object instances.
+
 ## 🛠 Day 06 - Introduction to Object-Oriented Programming
 
 Today’s focus shifted toward the fundamentals of Object-Oriented Programming (OOP) in Python. By transitioning from procedural code to class-based structures, the projects today explored how to encapsulate data and behavior within objects. Key concepts covered include class instantiation, attribute management, and the implementation of methods to perform specific tasks, such as mathematical calculations and status reporting.
 
-### Daily Projects
-* **The Car Factory:** Defining a class blueprint to instantiate multiple unique objects with distinct attributes.
-* **The Puppy Protocol:** Implementing class methods to define specific behaviors for an object.
-* **The Bank Account:** Managing internal state (encapsulation) through methods that modify and retrieve attribute values.
-* **The Student ID:** Using the `__init__` constructor to handle complex data types like lists and performing data processing within a class.
-* **The Rectangle Area:** Applying geometric logic within a method to return calculated values based on object attributes.
+- **The Car Factory:** Defining a class blueprint to instantiate multiple unique objects with distinct attributes.
+- **The Puppy Protocol:** Implementing class methods to define specific behaviors for an object.
+- **The Bank Account:** Managing internal state (encapsulation) through methods that modify and retrieve attribute values.
+- **The Student ID:** Using the `__init__` constructor to handle complex data types like lists and performing data processing within a class.
+- **The Rectangle Area:** Applying geometric logic within a method to return calculated values based on object attributes.
 
 ## 🛠 Day 05 - Functions & Fail-Safes 🛡️
 
